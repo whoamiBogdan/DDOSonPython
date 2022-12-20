@@ -3,10 +3,10 @@ This is my frst programm on github
 #Installation
 #linux
 
-apt update
+$ apt update
 
-apt upgrade
+$ apt upgrade
 
-pip install scapy
+$ pip install scapy
 
-python3 ddos.py
+$ python3 ddos.py
